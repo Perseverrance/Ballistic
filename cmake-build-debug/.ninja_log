@@ -1,0 +1,6 @@
+# ninja log v5
+0	20	1697310373291257895	build.ninja	918ac1275123c0d5
+1	1238	1697310344691662811	tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	1fc07422cee4f136
+1	1567	1697310385099092638	tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	1fc07422cee4f136
+1	1851	1697310473857883499	tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	1fc07422cee4f136
+1	1700	1697310589316386735	tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	1fc07422cee4f136
